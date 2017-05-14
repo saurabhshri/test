@@ -1,3 +1,9 @@
+| **Legend:**        | 
+| :------------- | 
+| <ul><li>- [ ] Work To Be Done. </li><li>Work In Progress.</li><li>- [x] Work Completed.</li></ul> | 
+
+
+
 ## 1. Community Bonding Period (6th May - 27th May) :
 
 - [x] Set-up a blog.  
@@ -10,9 +16,9 @@
       _(https://saurabhshri.github.io/gsoc)_
 - [ ] Create accounts across CCExtractor Systems.  
 - [ ] Set-up server and development environment.  
-- [ ] Fine tune the deliverables and update this Gist.
+-  Fine tune the deliverables and update this Gist.
 - [ ] Shamelessly insert this to tell everyone that it's my birtday on 24th.
-- [ ] Collect samples and create sample repository.  
+-  Collect samples and create sample repository.  
 - [ ] Create account across CCExtractor Systems
 - [ ] Post the update on blog.  
 
